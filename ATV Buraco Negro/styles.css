@@ -13,9 +13,6 @@ body {
     display: flex;
     flex: column;
     align-items: center;
-    padding: 200px;
-    max-width: 1200px;
-    margin: 0 auto;
 }
 
 .imagens h1 {

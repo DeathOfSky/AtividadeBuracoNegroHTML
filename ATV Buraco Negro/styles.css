@@ -9,12 +9,6 @@ body {
     padding-top: 50pt;
 }
 
-.container {
-    display: flex;
-    flex: column;
-    align-items: center;
-}
-
 .imagens h1 {
     color:rgb(149, 0, 255);
 }

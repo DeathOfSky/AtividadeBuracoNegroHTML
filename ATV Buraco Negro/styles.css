@@ -1,0 +1,46 @@
+
+body {
+    background-image: url('1315743.jpg');
+    background-size: cover;
+}
+
+.imagens {
+    text-align: center;
+    padding-top: 50pt;
+}
+
+.imagens h1 {
+    color:rgb(149, 0, 255);
+}
+
+.conteudo h2 {
+    color: rgb(0, 3, 155);
+}
+
+.conteudo p {
+    color:rgb(16, 160, 185);
+}
+
+.conteudo2 h2 {
+    color: rgb(0, 3, 155);
+}
+
+.conteudo2 p, li {
+    color: rgb(16, 160, 185);
+}
+
+.cinema h2 {
+    color: rgb(0, 3, 155);
+}
+
+.cinema p, li {
+    color: rgb(16, 160, 185);
+}
+
+.gifs h2 {
+    color: rgb(0, 3, 155);
+}
+
+.gifs p {
+    color: rgb(16, 160, 185);
+}
